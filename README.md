@@ -2,7 +2,8 @@
 
 A complete SQL-based Library Management System built using PostgreSQL. This project demonstrates database design, SQL querying, business problem solving, and relational database management through a real-world library scenario.
 
----
+<img width="1536" height="1024" alt="Library_Management_interface" src="https://github.com/user-attachments/assets/5761eb23-2bdd-4ac9-9df0-84a126953dd9" />
+
 
 # 🚀 Quick Access
 
@@ -116,13 +117,6 @@ Contains ER Diagram, SQL execution screenshots, and query outputs.
 ---
 
 # 📸 Screenshots
-
-## Library Interface
-
- <img width="1057" height="608" alt="ER_Diagram" src="https://github.com/user-attachments/assets/5d8b693c-5555-4240-862e-df4e1ba6f105" />
-
-
----
 
 ## ER Diagram
 
