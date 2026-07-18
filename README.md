@@ -46,7 +46,7 @@ This project demonstrates how SQL can automate these operations while providing 
 
 # 🗂 Database Schema
 
-![ER Diagram](Screenshots/ER_Diagram.png)
+ https://github.com/Premprakashmaurya/Library-Management-System-SQL/blob/main/Screenshot*/Database_Schema.png
 
 ---
 
